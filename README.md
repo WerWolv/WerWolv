@@ -1,6 +1,6 @@
 # 💫 About Me
 Hi, my name is Nik aka WerWolv. 
-I'm a 23 year old embedded systems electronics engineer from Switzerland. 
+I'm a 24 year old embedded systems electronics engineer from Switzerland. 
 I'm fascinated by embedded systems, low level coding, ARM microcontroller dev, operating systems as well as console homebrew and custom firmwares.
 Most of the things I develop are open source and available for free for everyone to use here on my GitHub page.
 
@@ -16,4 +16,4 @@ Besides programming, I love mountain climbing, playing video games and listening
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vAM4mAEb2q) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WerWolv) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/WerWolv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WerWolv)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vAM4mAEb2q) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WerWolv)
