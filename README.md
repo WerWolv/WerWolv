@@ -1,6 +1,6 @@
 # 💫 About Me
 Hi, my name is Nik aka WerWolv. 
-I'm a 26 year old embedded systems electronics engineer from Switzerland. 
+I'm an embedded systems electronics engineer and hacker from Switzerland. 
 I'm fascinated by embedded systems, low level coding, ARM microcontroller dev, operating systems as well as console homebrew and custom firmwares.
 Most of the things I develop are open source and available for free for everyone to use here on my GitHub page.
 
